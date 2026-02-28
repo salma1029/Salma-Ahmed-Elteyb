@@ -35,6 +35,23 @@ Users can add, complete, and delete tasks with a clean, Material Design interfac
   - 40 → Add button "+"
 
 ---
+## 📄 Report & 🎥 Demo Video
+
+You can access the full project report and demo video using the Google Drive link below:
+
+🔗 **Google Drive Folder:**  
+[View Report & Video](https://drive.google.com/drive/folders/136C1OLX4loI7NtUqnWu9GqOm8Ef5ehgJ?usp=sharing)
+
+---
+
+## 🌐 Online Project (FlutLab)
+
+You can view and run the project online using FlutLab:
+
+🔗 **FlutLab Project Link:**  
+[Open Project in FlutLab](https://flutlab.io/editor/f1d6966c-4864-4d6b-8a74-552eec4df803)
+
+---
 
 ## 🗂 Folder Structure
 
@@ -45,19 +62,5 @@ assignments/
     ├── report/       ← PDF report
     └── video/        ← Demo video
 
-## 📄 Report & 🎥 Demo Video
 
-You can access the full project report and demo video using the Google Drive link below:
 
-🔗 **Google Drive Folder:**  
-[View Report & Video](https://drive.google.com/drive/folders/136C1OLX4loI7NtUqnWu9GqOm8Ef5ehgJ?usp=sharing)
-
----
-## 🌐 Online Project (FlutLab)
-
-You can view and run the project online using FlutLab:
-
-🔗 **FlutLab Project Link:**  
-[Open Project in FlutLab](https://flutlab.io/editor/f1d6966c-4864-4d6b-8a74-552eec4df803)
-
----
